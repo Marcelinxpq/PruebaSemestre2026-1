@@ -2,4 +2,4 @@
 ## Descripción
 Repositorio para las pruebas de Git y GitHub de semestre 2026-1
 
-## Esta es la rama principal
+## Esta es la rama RamaNueva
